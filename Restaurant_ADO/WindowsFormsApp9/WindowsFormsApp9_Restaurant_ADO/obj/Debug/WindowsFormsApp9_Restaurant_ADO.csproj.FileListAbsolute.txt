@@ -1,0 +1,16 @@
+C:\Users\Yahya\source\repos\WindowsFormsApp9\WindowsFormsApp9_Restaurant_ADO\bin\Debug\WindowsFormsApp9_Restaurant_ADO.exe.config
+C:\Users\Yahya\source\repos\WindowsFormsApp9\WindowsFormsApp9_Restaurant_ADO\bin\Debug\WindowsFormsApp9_Restaurant_ADO.exe
+C:\Users\Yahya\source\repos\WindowsFormsApp9\WindowsFormsApp9_Restaurant_ADO\bin\Debug\WindowsFormsApp9_Restaurant_ADO.pdb
+C:\Users\Yahya\source\repos\WindowsFormsApp9\WindowsFormsApp9_Restaurant_ADO\obj\Debug\WindowsFormsApp9_Restaurant_ADO.csproj.AssemblyReference.cache
+C:\Users\Yahya\source\repos\WindowsFormsApp9\WindowsFormsApp9_Restaurant_ADO\obj\Debug\WindowsFormsApp9_Restaurant_ADO.Form1.resources
+C:\Users\Yahya\source\repos\WindowsFormsApp9\WindowsFormsApp9_Restaurant_ADO\obj\Debug\WindowsFormsApp9_Restaurant_ADO.Properties.Resources.resources
+C:\Users\Yahya\source\repos\WindowsFormsApp9\WindowsFormsApp9_Restaurant_ADO\obj\Debug\WindowsFormsApp9_Restaurant_ADO.csproj.GenerateResource.cache
+C:\Users\Yahya\source\repos\WindowsFormsApp9\WindowsFormsApp9_Restaurant_ADO\obj\Debug\WindowsFormsApp9_Restaurant_ADO.csproj.CoreCompileInputs.cache
+C:\Users\Yahya\source\repos\WindowsFormsApp9\WindowsFormsApp9_Restaurant_ADO\obj\Debug\WindowsFormsApp9_Restaurant_ADO.exe
+C:\Users\Yahya\source\repos\WindowsFormsApp9\WindowsFormsApp9_Restaurant_ADO\obj\Debug\WindowsFormsApp9_Restaurant_ADO.pdb
+C:\Users\Yahya\source\repos\WindowsFormsApp9\WindowsFormsApp9_Restaurant_ADO\obj\Debug\WindowsFormsApp9_Restaurant_ADO.Calisan.resources
+C:\Users\Yahya\source\repos\WindowsFormsApp9\WindowsFormsApp9_Restaurant_ADO\obj\Debug\WindowsFormsApp9_Restaurant_ADO.Yönetici.resources
+C:\Users\Yahya\source\repos\WindowsFormsApp9\WindowsFormsApp9_Restaurant_ADO\obj\Debug\WindowsFormsApp9_Restaurant_ADO.Baslangic.resources
+C:\Users\Yahya\source\repos\WindowsFormsApp9\WindowsFormsApp9_Restaurant_ADO\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Yahya\source\repos\WindowsFormsApp9\WindowsFormsApp9_Restaurant_ADO\obj\Debug\WindowsFormsApp9_Restaurant_ADO.csproj.CopyComplete
+C:\Users\Yahya\source\repos\WindowsFormsApp9\WindowsFormsApp9_Restaurant_ADO\obj\Debug\WindowsFormsApp9_Restaurant_ADO.Siparis.resources
